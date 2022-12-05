@@ -1,0 +1,21 @@
+body {
+    font-family: 'Aclonica', sans-serif;
+    color: #f00
+}
+
+.main-content {
+    margin-top: 20px;
+    background-color: #eeeeee;
+    text-align: center;
+    font-size: 200%;
+}
+
+.jumbotron {
+    text-align: center;
+    color: darkslategrey;
+}
+
+.footer {
+    font-size: 120%;
+    text-align: center;
+}
